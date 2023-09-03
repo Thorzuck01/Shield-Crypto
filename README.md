@@ -2,7 +2,7 @@
 
 
 <p align="center" ><img alt="Shield" src="https://github.com/Thorzuck01/Shield-Crypto/blob/main/oni-bg.png"width=200></p>
-<h1 align="center">Shield Crypto</h1>
+<h1 align="center"><strong>Shield Crypto</strong></h1>
 <p align="center">
 
   
