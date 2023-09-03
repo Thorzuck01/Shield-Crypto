@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCtdE8vbIezT78YCBvHzRWDw" >Youtube Channel</a> •
+  <a href="https://www.youtube.com/channel/UCtdE8vbIezT78YCBvHzRWDw" target="__blank" >Youtube Channel</a> •
   <a href="https://github.com/Thorzuck01">Author</a> 
 </p>
 
