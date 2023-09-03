@@ -29,7 +29,6 @@
 Para você executar o **Shield Crypto** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
 
 
-https://github.com/Thorzuck01/Shield-Crypto/blob/main/run.png
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
   <p align="center" ><img alt="Shield" src="https://github.com/Thorzuck01/Shield-Crypto/blob/main/run.png"width=500>
